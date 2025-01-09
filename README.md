@@ -12,4 +12,4 @@
 
 The final project involves composing a research proposal for the designed drug, following the guidelines outlined in the 'Proposal Writing Outline.' AlphaFold2 was utilized to predict the structure of the designed antibody. The script for running AlphaFold2 on USC CARC, along with the generated PDB files, is included in the AlphaFold2 Protein Structure Prediction folder.
 Here's the video of the antibody structure:
-<video src="https://morganafu.github.io/USC-PSCI_517-Protein_Engineering_Drug_Discovery/video.mp4" controls autoplay loop width="100%"></video>
+<video src="https://morganafu.github.io/USC-PSCI_517-Protein_Engineering_Drug_Discovery/Anti-Notch Antibody_with_modifications.mp4" controls autoplay loop width="100%"></video>
