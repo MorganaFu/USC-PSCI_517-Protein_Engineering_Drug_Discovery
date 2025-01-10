@@ -10,5 +10,14 @@
 9. Fusion Proteins Technologies for Biopharmaceuticals
 10. Cytotoxic Fusion Proteins
 
-The final project involves composing a research proposal for the designed drug, following the guidelines outlined in the 'Proposal Writing Outline.' AlphaFold2 was utilized to predict the structure of the designed antibody. The script for running AlphaFold2 on USC CARC, along with the generated PDB files, is included in the AlphaFold2 Protein Structure Prediction folder.
+The final project involves composing a research proposal for the designed drug, following the guidelines outlined in the "Proposal Writing Outline." AlphaFold2 was utilized to predict the structure of the designed antibody. The script for running AlphaFold2 on USC CARC, along with the generated PDB files, is included in the AlphaFold2 Protein Structure Prediction folder.
+
+Please click the "Deployments" on your right, and visit the github-pages to view the video of antibody structure. 
+<img 
+  src="https://github.com/user-attachments/assets/0575b983-d251-4786-afb8-93e39e69a000" 
+  alt="My Image"
+  width="400"
+/>
+
+
 
